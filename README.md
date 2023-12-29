@@ -1,1 +1,1 @@
-https://github.com/AnupKrMistry/Resume/blob/main/index.html
+[Click Here To Visit!!!](https://anupkrmistry.github.io/Resume "Home Page")
